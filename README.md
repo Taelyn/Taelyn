@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 📫 How to reach me: ...
+
   Discord:
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/317550181098717185)](https://discord.com/users/317550181098717185)
