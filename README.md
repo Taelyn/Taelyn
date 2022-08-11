@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
   Discord:
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/317550181098717185)](https://discord.com/users/317550181098717185)
+  <a href="https://discord.com/users/317550181098717185" target="_blank">
+	  <img width="50%" align="left" alt="Discord Status" src="https://lanyard.cnrad.dev/api/317550181098717185?bg=1f1f1f&borderRadius=5px">
+  </a>
