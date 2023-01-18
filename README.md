@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
-  Empyrion - Galactic Survival
+  - Empyrion - Galactic Survival
+  - Taelyn Bot
 
 - 📫 How to reach me: ...
 
