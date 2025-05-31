@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   - 🚀 Empyrion - Galactic Survival
   - 🔐 REDACTED Project
   - 🤖 Taelyn Bot
-  - 🚀 UEE Naval Expeditionary Unit *(UNEU) (Star Citizen Organisation)*
+  - 🚀 UEE Naval Expeditionary Unit (UNEU) *(Star Citizen Organisation)*
 
 - 📫 How to reach me: ...
 
