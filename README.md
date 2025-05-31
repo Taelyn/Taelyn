@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
-  - Empyrion - Galactic Survival
-  - Taelyn Bot
+  - 🚀 Empyrion - Galactic Survival
+  - 🔐 REDACTED Project
+  - 🤖 Taelyn Bot
+  - 🚀 UEE Naval Expeditionary Unit (UNEU) (Star Citizen Organisation)
 
 - 📫 How to reach me: ...
 
