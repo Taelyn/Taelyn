@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   - 🚀 Empyrion - Galactic Survival
   - 🔐 REDACTED Project
   - 🤖 Taelyn Bot
-  - 🚀 UEE Naval Expeditionary Unit (UNEU) *(Star Citizen Organisation)*
+  - 🚀 Naval Expeditionary Command (NEXC) *(Star Citizen Organisation)*
 
 - 📫 How to reach me: ...
 
@@ -27,3 +27,4 @@ Here are some ideas to get you started:
   <a href="https://discord.com/users/317550181098717185" target="_blank">
 	  <img width="50%" align="left" alt="Discord Status" src="https://lanyard.cnrad.dev/api/317550181098717185?bg=1f1f1f&borderRadius=5px">
   </a>
+
