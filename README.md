@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   - 🔐 REDACTED Project
   - 🤖 Taelyn Bot
   - 🚀 Naval Expeditionary Command (NEXC) *(Star Citizen Organisation)*
+  - Victus - Silvermoon EU *(World of Warcraft Guild)*  
 
 - 📫 How to reach me: ...
 
